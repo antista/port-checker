@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.idea
+.vscode
+.python-version
+*.iml
+.env
+.cache
+.pytest_cache/
+/docker-compose.override.yml
+venv
+.venv
+dist/
+.coverage
+htmlcov/
+.tox
+psql
